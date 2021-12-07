@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    <!-- 按下时 -->
+    <item 
+        android:drawable="@mipmap/ic_previous_pressed"
+        android:state_pressed="true"
+        ></item>
+    
+    <!-- 默认 -->
+    <item 
+        android:drawable="@mipmap/ic_previous_normal"
+        ></item>
+
+</selector>
